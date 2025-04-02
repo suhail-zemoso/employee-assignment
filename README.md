@@ -21,3 +21,6 @@ Ensure the following are installed on your system:
 4. **Start the application**
     ```bash
     npm start
+5. **Postman documentor**
+    ```bash
+    https://documenter.getpostman.com/view/43680875/2sB2cSgPLA
